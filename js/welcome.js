@@ -11,7 +11,7 @@ function getParametroInvitado() {
 // Función para cargar el JSON desde el archivo
 async function cargarJSON() {
     try {
-        const response = await fetch('db/invitados.json'); // Ruta al archivo JSON
+        const response = await fetch('./db/invitados.json'); // Ruta al archivo JSON
         if (!response.ok) {
             throw new Error('Error al cargar el JSON: ' + response.statusText);
         }
