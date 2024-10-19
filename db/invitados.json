@@ -2,361 +2,649 @@
     "invitados" : [
         { 
             "familia":"daniel_marzec",
+            "mensaje":"Querido hermano:",
             "invitados":[
-                "Dani",
+                "Daniel"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        { 
+            "familia":"sobris_marzec",
+            "mensaje":"Queridos sobrinos:",
+            "invitados":[
                 "Morena",
                 "Joaquin"
             ],
-            "mensaje":"Querido hermano y sobrinos:"
+            "confirma":"tati",
+            "num":"3743511106"
         },
         {
-            "familia":"fibiani",
+            "familia":"pamela_fib",
+            "mensaje":"Queridos cuñada de corazón:",
             "invitados":[
                 "Pamela",
                 "Aldo",
                 "Estela"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"fibiani",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Aldo",
+                "Estela"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
         },
         {
             "familia":"carla_john",
+            "mensaje":"Querida mamá y suegrita:",
             "invitados":[
-                "Carla",
-                "Juan Bautista",
-                "Nadine",
-                "Rubén"
+                "Carla"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },
         {
             "familia":"dario_fank",
+            "mensaje":"Querido Papá y hermano:",
             "invitados":[
                 "Darío",
-                "Sol",
                 "Aramí"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"nadi_buti",
+            "mensaje":"Queridos hermanos:",
+            "invitados":[
+                "Juan Bautista",
+                "Nadine"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"ruben_rod",
+            "invitados":[
+                "Rubén"
+            ],
+            "mensaje":"Querido:",
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"yani",
-            "invitados":[   ],
-            "mensaje":"Querida mamá: Estamos profundamente agradecidos por todo el apoyo que nos diste, por estar a nuestro lado en cada momento y por cada segundo que nos dedicaste con tanto amor. Sos un pilar incondicional en nuestras vidas, y sabemos que no hay nadie mejor que vos para guiarnos en este nuevo camino que hemos decidido emprender. Sería un honor inmenso para nosotros que te sientes junto a nosotros en el altar, no solo como madre y suegra, sino como nuestra madrina de bodas, bendiciendo con tu presencia y tu amor este nuevo capítulo de nuestras vidas."
+            "mensaje":"Querida mamá y suegrita:",
+            "invitados":[
+                "Yani"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"abuela_mari",
+            "mensaje":"Querida abuela:",
             "invitados":[
                 "Mari"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
-            "familia":"fany",
+            "familia":"fanny",
+            "mensaje":"Querida Tía:",
             "invitados":[
                 "Estefania"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
-            "familia":"tio_polaco",
+            "familia":"juan_j",
+            "mensaje":"Queridos Tíos y prima",
             "invitados":[
                 "Juan Carlos",
-                "Karina",
-                "Magali"
+                "Magali",
+                "Karina"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
-            "familia":"tia_graciela",
+            "familia":"graciela_j",
+            "mensaje":"Queridos Tíos y Primos",
             "invitados":[
                 "Graciela",
                 "Lautaro",
                 "Ezequiel"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"sergio_gauna",
+            "mensaje":"Querido:",
             "invitados":[
-                "Sergio"
+                "Sergio Gauna"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"carolina_r",
+            "mensaje":"Querida Prima y familia:",
             "invitados":[
                 "Carolina",
-                "Judas",
+                "Gabriel",
                 "Luzmila",
                 "Maria Miel"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"romina_r",
+            "mensaje":"Querida Prima y familia:",
             "invitados":[
                 "Romina",
                 "Raúl",
                 "Raissa"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
-            "familia":"maria_john",
+            "familia":"maria_j",
+            "mensaje":"Querida Prima y familia:",
             "invitados":[
                 "Maria",
                 "Andrés",
                 "Liam",
                 "Benjamín"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
-            "familia":"guillermo_john",
+            "familia":"guillermo_j",
+            "mensaje":"Queridos Tíos y Primas:",
             "invitados":[
                 "Gillermo",
+                "Mercedes",
                 "Victoria",
-                "Mujer",
-                "Hija 1",
-                "Hija 2"
+                "Matilda",
+                "Justina"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"carlos_roth",
+            "mensaje":"Queridos Tíos",
             "invitados":[
                 "Carlos",
-                "Mujer"
+                "Olga"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"claudio_m",
+            "mensaje":"Querido:",
             "invitados":[
                 "Claudio"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"carola_fank",
+            "mensaje":"Queridos Tíos y Primo:",
             "invitados":[
                 "Carola",
                 "Ariel",
                 "Danilo"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"marcelo_fank",
+            "mensaje":"Queridos Tíos y Primos:",
             "invitados":[
                 "Marcelo",
                 "Natalia",
                 "Irupé",
                 "Nahuel"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"bisabuela",
+            "mensaje":"Queridas Bisabuela y Tías:",
             "invitados":[
                 "Felicita",
                 "Celia",
-                "Elsa"
+                "Elsa",
+                "Regalada"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"tio_juan",
+            "mensaje":"Queridos Tíos:",
             "invitados":[
                 "Juan",
-                "mujer"
+                "Dora"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },      
         {
             "familia":"claudia",
+            "mensaje":"Queridos Primos:",
             "invitados":[
                 "Claudia",
                 "Chicho"
             ],
-            "mensaje":""
+            "confirma":"tomi",
+            "num":"3743411783"
         },        
         {
             "familia":"loani",
+            "mensaje":"Querida Hermana:",
             "invitados":[
-                "Loani",
-                "Novio ?"
+                "Loani"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"karla",
+            "mensaje":"Queridos Primos:",
             "invitados":[
                 "Karla",
                 "Raúl",
                 "Luisma"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"diego_maricel",
+            "mensaje":"Queridos:",
             "invitados":[
                 "Diego",
                 "Maricel",
                 "Hijos"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"abi",
+            "mensaje":"Querida Comadre y Sobrino:",
             "invitados":[
                 "Abigail",
                 "Alejo"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"rosi",
+            "mensaje":"Queridos Tíos:",
             "invitados":[
                 "Rosi",
                 "César"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
-            "familia":"lauri",
+            "familia":"eberhard",
+            "mensaje":"Queridos Tíos:",
             "invitados":[
-                "Laura",
                 "Ricardo",
                 "Cecilia"
             ],
-            "mensaje":""
-        },        
+            "confirma":"tati",
+            "num":"3743511106"
+        },    
+        {
+            "familia":"lauri",
+            "mensaje":"Queridos Amiga:",
+            "invitados":[
+                "Laura"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },    
         {
             "familia":"ariel_acosta",
+            "mensaje":"Querido Amigo:",
             "invitados":[
                 "Ariel"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"giuli",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Giuliana"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"villamayor",
+            "mensaje":"Queridos:",
             "invitados":[
                 "Ayelen",
                 "Nicolás",
                 "Santiago"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"gentile",
+            "mensaje":"Queridos:",
             "invitados":[
                 "Melina",
                 "Facundo"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"nair",
+            "mensaje":"Querida Amiga:",
             "invitados":[
-                "Nair"
+                "Nair",
+                "Marco"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
-            "familia":"belen",
+            "familia":"lima",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Belén"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"toledo",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Gisela"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
-            "familia":"soraya",
+            "familia":"acosta",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Soraya"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },               
         {
-            "familia":"dessi",
+            "familia":"dessi_rafa",
+            "mensaje":"Queridos Amigos:",
             "invitados":[
                 "Dessire",
                 "Rafael"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
-            "familia":"sartes",
+            "familia":"sarthes",
+            "mensaje":"Queridos Amigos:",
             "invitados":[
                 "Camila",
                 "Julian"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"coti",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Constanza"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"galarza",
+            "mensaje":"Queridas:",
             "invitados":[
                 "Iraci",
                 "Rosalia",
                 "Griselda"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"luraghi",
+            "mensaje":"Queridos Primos:",
             "invitados":[
                 "Karina",
                 "Roberto",
                 "Gonzalo",
                 "Facundo"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },        
         {
             "familia":"hugo_luci",
+            "mensaje":"Queridos Tíos y Prima:",
             "invitados":[
                 "Lucia",
                 "Hugo",
                 "Martina",
                 "Serena"
-
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },
         {
             "familia":"juan_marzec",
+            "mensaje":"Queridos Tíos:",
             "invitados":[
                 "Juan",
                 "Ana Maria"
             ],
-            "mensaje":""
+            "confirma":"tati",
+            "num":"3743511106"
         },
         {
             "familia":"arlettaz",
+            "mensaje":"Querido Amigo:",
             "invitados":[
                 "Guido"
             ],
-            "mensaje":"Querido..."
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"familia_arlettaz",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Marcelo",
+                "Laura"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"burgos",
+            "mensaje":"Queridos Amigos:",
+            "invitados":[
+                "Ezequiel Burgos",
+                "Juliana Medina"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"rey",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Ezequiel"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"gossler",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Ariel Gossler"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"santi_g",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Santi"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"mioko",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Matias"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"rojas",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Darío Rojas"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"franco_rec",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Franco"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"gallero",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Mechi",
+                "Cacho"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"reyes",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Nachito"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"demian",
+            "mensaje":"Querido:",
+            "invitados":[
+                "Demian Martinez Gamba"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"volker",
+            "mensaje":"Queridos Amigos:",
+            "invitados":[
+                "Elías",
+                "Zule"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"thomas",
+            "mensaje":"Queridos Amigos:",
+            "invitados":[
+                "Felix",
+                "Viviana"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"lauti",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Lautaro"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"mati_casas",
+            "mensaje":"Queridos Amigos:",
+            "invitados":[
+                "Matias",
+                "Melany"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"ariadna",
+            "mensaje":"Querido Amiga:",
+            "invitados":[
+                "Ariadna"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"guerra",
+            "mensaje":"Querido Amiga:",
+            "invitados":[
+                "Lara"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
         }
     ]
 }
