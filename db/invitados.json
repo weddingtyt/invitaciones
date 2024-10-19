@@ -108,7 +108,7 @@
             "mensaje":"Queridos Tíos y prima",
             "invitados":[
                 "Juan Carlos",
-                "Magali",
+                "Magalí",
                 "Karina"
             ],
             "confirma":"tomi",
@@ -116,7 +116,7 @@
         },        
         {
             "familia":"graciela_j",
-            "mensaje":"Queridos Tíos y Primos",
+            "mensaje":"Queridos Tía y Primos",
             "invitados":[
                 "Graciela",
                 "Lautaro",
@@ -184,7 +184,7 @@
         },        
         {
             "familia":"carlos_roth",
-            "mensaje":"Queridos Tíos",
+            "mensaje":"Queridos Tíos:",
             "invitados":[
                 "Carlos",
                 "Olga"
@@ -319,7 +319,7 @@
         },    
         {
             "familia":"lauri",
-            "mensaje":"Queridos Amiga:",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Laura"
             ],
@@ -349,7 +349,7 @@
             "mensaje":"Queridos:",
             "invitados":[
                 "Ayelen",
-                "Nicolás",
+                "Nicolas",
                 "Santiago"
             ],
             "confirma":"tati",
@@ -367,7 +367,7 @@
         },        
         {
             "familia":"nair",
-            "mensaje":"Querida Amiga:",
+            "mensaje":"Queridos:",
             "invitados":[
                 "Nair",
                 "Marco"
@@ -446,7 +446,7 @@
             "familia":"luraghi",
             "mensaje":"Queridos Primos:",
             "invitados":[
-                "Karina",
+                "Carina",
                 "Roberto",
                 "Gonzalo",
                 "Facundo"
@@ -509,7 +509,7 @@
             "familia":"rey",
             "mensaje":"Querido Amigo:",
             "invitados":[
-                "Ezequiel"
+                "Ezequiel Vazquez Rey"
             ],
             "confirma":"tomi",
             "num":"3743411783"
@@ -554,7 +554,7 @@
             "familia":"franco_rec",
             "mensaje":"Querido Amigo:",
             "invitados":[
-                "Franco"
+                "Franco Reckziegel"
             ],
             "confirma":"tomi",
             "num":"3743411783"
@@ -563,8 +563,8 @@
             "familia":"gallero",
             "mensaje":"Queridos:",
             "invitados":[
-                "Mechi",
-                "Cacho"
+                "Mercedes 'Mechi' Jimenez",
+                "Juan Carlos 'Cacho' Gallero"
             ],
             "confirma":"tomi",
             "num":"3743411783"
@@ -573,7 +573,7 @@
             "familia":"reyes",
             "mensaje":"Querido Amigo:",
             "invitados":[
-                "Nachito"
+                "Ignacio Reyes"
             ],
             "confirma":"tomi",
             "num":"3743411783"
@@ -628,7 +628,7 @@
         },
         {
             "familia":"ariadna",
-            "mensaje":"Querido Amiga:",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Ariadna"
             ],
@@ -637,7 +637,7 @@
         },
         {
             "familia":"guerra",
-            "mensaje":"Querido Amiga:",
+            "mensaje":"Querida Amiga:",
             "invitados":[
                 "Lara"
             ],
