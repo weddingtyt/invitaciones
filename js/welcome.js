@@ -25,18 +25,39 @@ async function cargarJSON() {
 // Función para buscar la familia en el JSON
 function buscarInvitadoPorFamilia(invitadosData, familia) {
     lista.innerHTML = '';
-
     const resultado = invitadosData.invitados.find(item => item.familia === familia);
+
     if (resultado) {
-        titulo.innerText = resultado.mensaje
+        titulo.innerText = resultado.mensaje;
         console.log('Invitados:', resultado.invitados);
+
+        // Mostrar los nombres de los invitados en una lista
         resultado.invitados.forEach(element => {
-            lista.innerHTML += `<li>${element}</li>`
+            lista.innerHTML += `<li>${element}</li>`;
         });
+
+        // Obtener el número de WhatsApp y el nombre de confirmación (tomi o tati)
+        const confirma = resultado.confirma === 'tati' ? 'Tati' : 'Tomi';
+        const numeroWpp = resultado.num;
+        
+        // Unir los nombres de los invitados en una sola cadena
+        const invitadosNombres = resultado.invitados.join(', ');
+        
+        // Crear el mensaje personalizado
+        const mensaje = `Hola ${confirma}! Confirmamos la asistencia a la boda, el 25/01/2025!
+        
+        Invitados que asistirán: ${invitadosNombres}`;
+
+        // Actualizar el enlace de WhatsApp en el botón
+        const wppButton = document.getElementById('wpp-button');
+        const wppUrl = `https://wa.me/549${numeroWpp}?text=${encodeURIComponent(mensaje)}`;
+        wppButton.innerHTML = `<a href="${wppUrl}" target="_blank">Confirmar</a>`;
+        
     } else {
         console.log('Familia no encontrada');
     }
 }
+
 
 // Función principal para ejecutar la lógica
 async function main() {
@@ -54,19 +75,19 @@ async function main() {
 // Llamar a la función principal
 
 const desaparecer = () =>{
-    contenedor.style.setProperty('--animate-duration', '2s');
+    contenedor.style.setProperty('--animate-duration', '0.5s');
     contenedor.classList.add('animate__animated', 'animate__fadeOut');
 
     contenedor.addEventListener('animationend', ()=>{
         contenedor.style.display = 'none';
 
         principal.style.display = 'block';
-        principal.style.setProperty('--animate-duration', '2s');
+        principal.style.setProperty('--animate-duration', '0.5s');
         principal.classList.add('animate__animated', 'animate__fadeIn');
     })
 }
 main();
 
-document.addEventListener('click', () => desaparecer())
-
+const continuarButton = document.getElementById('continuar-button');
+continuarButton.addEventListener('click', desaparecer);
 
