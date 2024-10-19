@@ -46,7 +46,7 @@ function buscarInvitadoPorFamilia(invitadosData, familia) {
         // Crear el mensaje personalizado
         const mensaje = `Hola ${confirma}! Confirmamos la asistencia a la boda, el 25/01/2025!
         
-        Invitados que asistirán: ${invitadosNombres}`;
+Invitados que asistirán: ${invitadosNombres}`;
 
         // Actualizar el enlace de WhatsApp en el botón
         const wppButton = document.getElementById('wpp-button');
