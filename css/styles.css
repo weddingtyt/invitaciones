@@ -1,0 +1,349 @@
+/* IMPORATR FUENTES */
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+/* GENERALES */
+*{
+    margin: 0;
+    padding: 0;
+    color: #171b26 !important;
+
+}
+#principal {
+    display: none;
+}
+.background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url("/images/background.jpg") no-repeat center center;
+    background-size: cover;
+    z-index: -1; 
+}
+a{
+    text-decoration: none;
+    color: #323B60 !important;
+}
+
+/* FUENTES */
+.fuente-1{
+    font-family: "Alice", serif;
+}
+.fuente-2{
+    font-family: "Dancing Script", cursive;
+}
+
+/* LINEAS HORIZONTALES */
+.line {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.line::before,
+.line::after {
+  content: "";
+  flex: 1;
+  border-bottom: 5px solid #CC9B8C; /* Ajusta el color de la línea */
+  margin: 0 10px; /* Espacio entre la línea y el texto */
+}
+.line::after {
+  margin-left: 10px; /* Puedes ajustar el espacio si es necesario */
+}
+.line::before {
+  margin-right: 10px;
+}
+
+/* CONTADOR */
+#countdown{
+    display: flex;
+    flex-direction: row;
+}
+.time-box {
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0px;
+    width: 10px;
+}
+.time-box span {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+}
+.time-box .label {
+    font-size: 16px;
+    color: #555;
+    margin-top: 10px;
+}
+.colon {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+    padding: 10px 0px;
+}
+
+/* FOTOS */
+.foto1, .foto2, .foto4{
+    display: block;
+    margin: 10% auto;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+/* .carousel-inner img{
+    height: 1380px !important;
+    object-fit: contain !important;
+} */
+
+/* NOS CASAMOS */
+#nos-casamos{
+    margin: 10% 0%;
+}
+#prometemos{
+    margin: 10% 0% 10%;
+    text-align: justify;
+}
+#dia-fecha{
+    margin: 5% 0% 10%;
+}
+#gran-dia{
+    margin-bottom: 3%;
+}
+#dia{
+    margin-bottom: 0; 
+    padding-bottom: 0;
+}
+
+/* ITINERARIO */
+.padding-container{
+    padding: 0 !important; 
+}
+.itinerario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5% 0%;
+}
+.itinerario-img img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.itinerario-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 25px 20px;
+    margin: 0px;
+    width: 100%;
+    background-color: #f1cdc185;
+}
+.itinerario-content-text{
+    margin-right: 10px;
+    text-align: left;
+}
+.itinerario-content-btn{
+    justify-content: center;
+    align-self: center;
+}
+
+.imagenes_sm img{
+    width: 82px;
+    height: 80px;
+}
+.container_pink{
+    background-color: #f1cdc185;
+    background-size: cover;
+}
+.adicionales-content{
+    display: flex;
+    flex-direction: row;
+}
+.adicionales-content p{
+    justify-content: center;
+    align-self: center;
+}
+.adicionales-content img{
+    justify-content: center;
+    align-self: center;
+    margin: 0px 20px 0px 20px;
+}
+.justificado{
+    text-align: justify;
+}
+.botones{
+    border-radius: 45px !important;
+    background-color: #f1cdc1 !important; 
+    border-color: #cc9b8c;
+    border-width: 5px;
+    padding: 12px 50px;
+    font-family: "Alice", serif;
+}
+.canciones-container{
+    padding: 0;
+}
+.canciones-content{
+    margin-top: 10%;
+    padding: 5% 1%;
+}
+/* --------------------------------- Responsive --------------------------------- */
+/* mobile */
+@media (max-width: 920px) {
+    .size-names{
+        font-size: 5rem;
+        text-align: center;
+    }
+    .size-title{
+        font-size: 2.2rem;
+        text-align: center;
+    }
+    .size-sub{
+        font-size: 2.9rem;
+        text-align: center;
+    }
+    .size-font-1{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+    .size-font-2{
+        font-size: 2rem;
+        text-align: center;
+    }
+    .size-date{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    .imagenes img{
+        width: 90%;
+        height: 90%;
+    } 
+    .time-box span{
+        font-size: 2rem;
+    }
+    .imagenes_sm img{
+        width: 25%;
+        height: 25%;
+    }
+    .letra_y{
+        width: 15%;
+        height: 15%;
+    }
+    .itinerario-title{
+        font-size: 1.5rem;
+    }
+    .itinerario-text{
+        font-size: 1.5rem;
+    }
+    .itinerario-time{
+        font-size: 2rem;
+    }
+    .botones{
+        padding: 12px !important;
+        font-size: 1.5rem;
+    }
+    #nos-casamos{
+        font-size: 3.5rem;
+    }
+    #prometemos{
+        font-size: 1.6rem;
+        text-align: center;
+    }
+    #gran-dia{
+        font-size: 2rem;
+    }
+    #dia{
+        font-size: 2.3rem;
+    }
+    #fecha{
+        font-size: 2.2rem;
+    }
+    #veinticinco{
+        font-size: 4rem;
+    }
+}
+/* desktop   */
+@media (min-width: 921px){
+    .imagenes img{
+        width: 45%;
+        height: 45%;
+    }
+    .size-names{
+        font-size: 7rem;
+    }
+    .size-title{
+        font-size: 5rem;
+    }
+    .size-sub{
+        font-size: 5rem;
+    }
+    .size-font-1{
+        font-size: 2rem;
+    }
+    .size-font-2{
+        font-size: 3rem;
+    }
+    .size-date{
+        font-size: 5rem;
+    }
+    .imagenes_sm img{
+        width: 20%;
+        height: 15%;
+    }
+    .letra_y{
+        width: 8%;
+        height: 8%;
+    }
+    .itinerario-title{
+        font-size: 3rem;
+    }
+    .itinerario-text{
+        font-size: 2rem;
+    }
+    .itinerario-time{
+        font-size: 3rem;
+    }
+    .botones{
+        padding: 12px !important;
+        font-size: 2rem;
+    }
+    #nos-casamos{
+        font-size: 6rem;
+    }
+    #prometemos{
+        font-size: 3rem;
+    }
+    #gran-dia{
+        font-size: 4rem;
+    }
+    #dia{
+        font-size: 5rem;
+    }
+    #fecha{
+        font-size: 6rem;
+    }
+    #veinticinco{
+        font-size: 9rem;
+    }
+}
+
+/* --------------------------------- WELCOME --------------------------------- */
+#initial-msg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+#initial-msg h1{
+    text-align: center;
+}
+
+#initial-msg p{
+    text-align: center;
+}
+
+#initial-msg-list{
+    list-style: none;
+    text-align: center;
+}

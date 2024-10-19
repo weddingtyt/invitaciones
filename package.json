@@ -1,0 +1,22 @@
+{
+  "name": "wedding",
+  "version": "1.0.0",
+  "description": "Página estática para las invitaciones de mi boda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasfank/wedding.git"
+  },
+  "author": "Tomás Fank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasfank/wedding/issues"
+  },
+  "homepage": "https://github.com/tomasfank/wedding#readme",
+  "dependencies": {
+    "animate.css": "4.1.1"
+  }
+}
