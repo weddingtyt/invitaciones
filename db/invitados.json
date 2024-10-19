@@ -350,6 +350,13 @@
                 "Ana Maria"
             ],
             "mensaje":""
+        },
+        {
+            "familia":"arlettaz",
+            "invitados":[
+                "Guido Arlettaz"
+            ],
+            "mensaje":"Querido amigo..."
         }
     ]
 }
