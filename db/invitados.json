@@ -644,6 +644,45 @@
             ],
             "confirma":"tati",
             "num":"3743511106"
+        },
+        {
+            "familia":"pfefier",
+            "mensaje":"Querido Amigo:",
+            "invitados":[
+                "Leandro Pfeifer"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"omar",
+            "mensaje":"Querido:",
+            "invitados":[
+                "Omar"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"juan-ramirez",
+            "mensaje":"Querido:",
+            "invitados":[
+                "Juan"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"datos",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Diego",
+                "Leandro",
+                "Ezequiel",
+                "Agustín"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
         }
     ]
 }
