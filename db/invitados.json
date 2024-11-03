@@ -685,14 +685,40 @@
             "num":"3743411783"
         },
         {
-            "familia":"flia_fank",
+            "familia":"flia-fank",
             "mensaje":"Queridos:",
             "invitados":[
                 "Juan Cruz",
-                "Leo",
-                "Eugenia",
-                "Fransisco",
-                "Santiago"
+                "Leo"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"fede-roth",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Federico Roth y Familia"
+            ],
+            "confirma":"tomi",
+            "num":"3743411783"
+        },
+        {
+            "familia":"cristian",
+            "mensaje":"Queridos:",
+            "invitados":[
+                "Cristian",
+                "Mariano"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        }
+        ,
+        {
+            "familia":"jm-fank",
+            "mensaje":"Querido:",
+            "invitados":[
+                "Juan Manuel"
             ],
             "confirma":"tomi",
             "num":"3743411783"
