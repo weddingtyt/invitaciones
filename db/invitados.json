@@ -712,8 +712,7 @@
             ],
             "confirma":"tati",
             "num":"3743511106"
-        }
-        ,
+        },
         {
             "familia":"jm-fank",
             "mensaje":"Querido:",
@@ -722,6 +721,45 @@
             ],
             "confirma":"tomi",
             "num":"3743411783"
+        },
+        {
+            "familia":"emilia",
+            "mensaje":"Querida:",
+            "invitados":[
+                "Emilia San Sebastian"
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"candela",
+            "mensaje":"Querida:",
+            "invitados":[
+                "Candela Bracchi"
+                
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"barbara",
+            "mensaje":"Querida:",
+            "invitados":[
+                "Barbara cañete"
+                
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
+        },
+        {
+            "familia":"lucila",
+            "mensaje":"Querida:",
+            "invitados":[
+                "Lucila Rico"
+                
+            ],
+            "confirma":"tati",
+            "num":"3743511106"
         }
     ]
 }
